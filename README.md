@@ -1,2 +1,2 @@
 # lambda-terraform
-templato  for lambda terraform
+templeto  for lambda terraform
